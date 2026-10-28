@@ -27,11 +27,11 @@
 | **Best Submission & Evidence** | UniHackFest 2026 | [`agent-pact`](https://github.com/agenticbernie/agent-pact) |
 | **Winner (Learning a Language)** | BuildToLaunch Vibeathon Meetup 09/2026 | [`saystrike-app`](https://github.com/agenticbernie/saystrike-app) |
 | **Top 5 Shortlist (Aviation)** | Agentic AI Build Week 2026 | [`aerotwin-ai`](https://github.com/agenticbernie/aerotwin-ai) *(Team Leader, Tech Architect, Backend)* |
-| **Top 4** | Greenbio Global Idea Bridge Lab 2025 | Innovation & Strategy |
-| **Á quân (Runner-up)** | TLS-Innovation 2025 | Product Development |
-| **Top 8 Finalist** | SEA Ideathon 2025 | Regional Innovation |
-| **Top 10 Finalist** | Web3 & AI Ideathon 2025 | Web3 & AI Integration |
-| **Top 8 (Algorand Track)** | Algorand Vietnam Hackathon 2024 | Early Web3 Prototyping |
+| **Top 4** | Greenbio Global Idea Bridge Lab 2025 | Mekong Doctor |
+| **Runner-up** | TLS-Innovation 2025 | Achievo |
+| **Top 8 Finalist** | SEA Ideathon 2025 | Mosaical |
+| **Top 10 Finalist** | Web3 & AI Ideathon 2025 | Alt30 |
+| **Top 8 (Algorand Track)** | Algorand Vietnam Hackathon 2024 | NFTicket |
 
 ---
 
