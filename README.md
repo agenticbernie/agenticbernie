@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 - 🧠 **Focus:** Building autonomous AI agents, scalable backend systems, and shipping production-ready products at hackathon speed.
-- 🏗️ **Roles:** Team Leader | Technical Architect | Backend Engineer.
+- 🏗️ **Roles:** Solo-builder, Community Builder, Mentor for young builders.
 - 🤝 **Current Mission:** Scaling **[HackOn Team](https://hackon.team)** and building developer tooling that empowers teams to ship faster and safer.
 - 💡 **Philosophy:** "Turn complex ideas into shipped, verified products at 100mph."
 
